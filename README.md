@@ -1,5 +1,4 @@
 # takeAnote
-<<<<<<< HEAD
 
 **script that allows valuable software developers who are stuck on the console screen to read and write notes quickly without leaving the console screen**
 
@@ -25,8 +24,6 @@
 
 # todos
 
-- [ ] notes encryption
-- [ ] getting ready for the end user (integer control etc.)
-=======
- script that allows valuable software developers who are stuck on the console screen to read and write notes quickly without leaving the console screen
->>>>>>> a4a9bf097d4c5bbd4f31f778b4d7192b3431fcc6
+- [ ] make a package
+- [ ] use argparser
+- [ ] Consider letting the user decide where to store the notes, defaulting to something like %HOME/.notes or a suitable replacement in Windows.
